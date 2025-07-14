@@ -31,7 +31,7 @@ struct NewToDoView: View {
             
         }//vstack
         .padding()
-    }//view
+    }//body
 }//struct
 
 #Preview {
